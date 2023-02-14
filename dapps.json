@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Stakes Social",
+        "url": "https://stakes.social",
+        "description": "Explore projects and support your favorite creators",
+        "logoUrl": "/img/Stakes-social.svg"
+    },
+    {
+        "name": "Artopia",
+        "url": "https://artopia.dev",
+        "description": "Discover, Collect & Sell Rare Art & Digital Collectibles on Multiple EVM Chains",
+        "logoUrl": "https://i.ibb.co/GMCrW5C/icon.png"
+    },
+    {
+        "name": "Chainwiz",
+        "url": "https://www.chainwhiz.app/",
+        "description": "Chainwhiz is an open-source bounty marketplace connecting Web3 projects with builders and communities. Work on bounties from fields like Front End, Back End, Design, Article-writing, and others and get paid in cryptocurrency.",
+        "logoUrl": "/img/chainwiz.png"
+    }
+]
